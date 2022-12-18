@@ -1,14 +1,5 @@
 package com.abhaytr.tools.livefunds;
 
-/*
-
-The source code of 'LiveFunds' is an intellectual property (IP) of Mr. Abhay Tripathi
-and is not for re-distribution.
-
-© Abhay Tripathi
-
-*/
-
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.animation.ValueAnimator;
